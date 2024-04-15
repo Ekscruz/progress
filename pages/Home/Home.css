@@ -1,0 +1,14 @@
+.home-page header{
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/udm.jpg);
+}
+
+header{
+    background-size: cover;
+    background-position: center;
+}
+
+.academics-section {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/acad4.jpg);
+    background-size: cover;
+    background-position: center;
+}
